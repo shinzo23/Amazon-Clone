@@ -4,34 +4,34 @@ A responsive clone of the Amazon homepage built using HTML and CSS. This project
 
 # Features:
 
-🔹Responsive Navigation Bar
-🔹Amazon-style Homepage Layout
-🔹Hero Banner
-🔹Product Sections
-🔹Clean and Modern UI Design
+-🔹Responsive Navigation Bar
+-🔹Amazon-style Homepage Layout
+-🔹Hero Banner
+-🔹Product Sections
+-🔹Clean and Modern UI Design
 
 # Technologies:
 
-🔹HTML5
-🔹CSS3
+-🔹HTML5
+-🔹CSS3
 
 ![alt text](image.png)
 
 # Learning Outcomes:
 
-🔹HTML page structuring
-🔹CSS styling and positioning
-🔹Responsive web design
-🔹Layout creation
-🔹UI design principles
+-🔹HTML page structuring
+-🔹CSS styling and positioning
+-🔹Responsive web design
+-🔹Layout creation
+-🔹UI design principles
 
 # Future Improvements:
 
-🔹Add Javascript Functionality
-🔹Create Login & Signup Pages
-🔹Add Shopping Cart Functionality
-🔹Improve Mobile Responsiveness
-🔹Add Product Slider
+-🔹Add Javascript Functionality
+-🔹Create Login & Signup Pages
+-🔹Add Shopping Cart Functionality
+-🔹Improve Mobile Responsiveness
+-🔹Add Product Slider
 
 # Acknowledgement
 
